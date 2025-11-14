@@ -76,7 +76,7 @@ O histórico de entregas e versões está documentado em:
 
 ## 0.0.1 - 05/11/2025 [Data do Commit/Envio]
 
-### 🏗️ Estrutura e Planejamento Inicial
+### Estrutura e Planejamento Inicial
 
 * **Repositório Criado:** Inicialização do repositório Git no GitHub e compartilhamento com o professor.
 * **Documentação:**
